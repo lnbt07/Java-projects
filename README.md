@@ -19,7 +19,6 @@ Repositório para armazenar meus repositórios de Projetos Java, para uma fácil
  - [ProjetoAgenda](https://github.com/lnbt07/ProjetoAgenda)
  - [ProjetoCalculadora](https://github.com/lnbt07/ProjetoCalculadora)
  - [ProjetoHotel](https://github.com/lnbt07/ProjetoHotel)
- - [ProjetoSalarioLiquido](https://github.com/lnbt07/ProjetoSalarioLiquido)
 
 ### _Banco de Dados_
  - [Conexão em Banco De Dados Oracle com Java](https://github.com/lnbt07/bancodedados-java)
