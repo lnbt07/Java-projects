@@ -24,6 +24,14 @@ Repositório para armazenar meus repositórios de Projetos Java, para uma fácil
  - [Conexão em Banco De Dados Oracle com Java](https://github.com/lnbt07/bancodedados-java)
  - [Configuração de Servidor para Java Web](https://github.com/lnbt07/ServersJavaWeb)
 
+### Nano Java Enterprise - FIAP ON
+ - [ClienteRMI](https://github.com/lnbt07/ClienteRMI)
+ - [Serializacao](https://github.com/lnbt07/Serializacao)
+ - [smartcities](https://github.com/lnbt07/smartcities)
+ - [smartcities_dao](https://github.com/lnbt07/smartcities_dao)
+ - [smartcities_dao_socketsserver](https://github.com/lnbt07/smartcities_dao_socketsserver)
+ - [smartcities_jpql](https://github.com/lnbt07/smartcities_jpql)
+
 
 ## *Repositórios sendo criados/atualizados*
 ### Nano Java Advanced Frameworks - FIAP ON
@@ -33,11 +41,3 @@ Repositório para armazenar meus repositórios de Projetos Java, para uma fácil
  - [webservice_soap_request]()
  - [ws-jpa-provider]()
  - [ws-jpa-requester]()
-
-### Nano Java Enterprise - FIAP ON
- - [ClienteRMI](https://github.com/lnbt07/ClienteRMI)
- - [Serializacao]()
- - [smartcities]()
- - [smartcities_dao]()
- - [smartcities_dao_socketsserver]()
- - [smartcities_jpql]()
