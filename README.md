@@ -35,7 +35,7 @@ Repositório para armazenar meus repositórios de Projetos Java, para uma fácil
  - [ws-jpa-requester]()
 
 ### Nano Java Enterprise - FIAP ON
- - [ClienteRMI]()
+ - [ClienteRMI](https://github.com/lnbt07/ClienteRMI)
  - [Serializacao]()
  - [smartcities]()
  - [smartcities_dao]()
