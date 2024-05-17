@@ -1,10 +1,11 @@
 # Java-projects
-Repositório para armazenar meus repositórios de Projetos Java, para uma fácil localização e manter organizado.
+Repositório para armazenar meus repositórios de Projetos Java, para uma fácil localização e organização.
 
 ## *Repositórios atualizados (Readme Pendente):*
 ### _Estrutura de Dados_
  - [Nac de Criptografia de senha utilizando Estrutura de Dados em Java](https://github.com/lnbt07/NacSenha)
  - [Arquivos recuperados das aulas de Estrutura de Dados em Java](https://github.com/lnbt07/estruturaDeDados-Java)
+ - [LinkedList-CodeChef](https://github.com/lnbt07/LinkedList-CodeChef)
  
 ### _Programação Orientada a Objeto_
  - [Projeto Empregado](https://github.com/lnbt07/ProjetoEmpregado)
